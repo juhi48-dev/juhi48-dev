@@ -1,4 +1,6 @@
-```markdown
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juhi48-dev/juhi48-dev/main/banner.png" alt="Banner"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Juhi+Kumari;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Backend+Systems;Always+Learning+Something+New" />
 </p>
@@ -106,6 +108,11 @@ Building scalable backend systems with clean architecture, efficient APIs, and a
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juhi48-dev/juhi48-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🎯 Current Focus
 
@@ -131,4 +138,4 @@ Building scalable backend systems with clean architecture, efficient APIs, and a
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 </p>
-```
+
