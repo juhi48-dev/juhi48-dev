@@ -1,5 +1,15 @@
+```markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Juhi+Kumari;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Backend+Systems;Always+Learning+Something+New" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Juhi Kumari</h1>
-<h3 align="center">Java Backend Developer | REST APIs | Node.js · Python · PostgreSQL</h3>
+
+<h3 align="center">Backend Software Engineer | Java | Spring Boot | REST APIs | PostgreSQL | Docker</h3>
+
+<p align="center">
+Building scalable backend systems with clean architecture, efficient APIs, and a passion for solving real-world problems.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/juhi48" target="_blank">
@@ -8,48 +18,117 @@
   <a href="mailto:mail2juhi11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=juhi48-dev&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🔧 I build **scalable REST APIs** and server-side systems
-- 🌱 Currently learning **Docker, Redis & System Design**
-- 🎯 Goal: 
-- 💡 I enjoy solving real-world problems through clean, well-structured code
-
----
-
-### 🛠️ Tech Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- 💼 Former **Backend Software Engineer at Bosch Global Software Technologies**
+- ☕ 2+ years of experience building backend applications and RESTful APIs
+- 🚀 Passionate about scalable backend systems, clean architecture, and performance optimization
+- 🌱 Currently learning **Docker, Redis, Kubernetes, AWS & System Design**
+- 🤖 Building **Hanger AI**, an AI-powered wardrobe management platform
+- 💡 Interested in Backend Engineering, Distributed Systems, and AI-powered applications
+- 🎯 Actively looking for **Java Backend Developer** opportunities
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🛍️ Hanger Backend](https://github.com/mail2juhi48/hanger-backend) | E-commerce REST API with auth, products & orders | Node.js, Express, PostgreSQL |
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **🛍️ Hanger AI** | AI-powered wardrobe management platform with secure authentication, REST APIs, PostgreSQL integration, and scalable backend architecture. | Java, Spring Boot, PostgreSQL, JWT, Docker |
+| **📊 More Projects Coming Soon** | Currently building backend-focused applications showcasing System Design, Redis, Docker, and scalable architectures. | Java, Spring Boot |
+
+🔗 **Repository:** https://github.com/juhi48-dev/hanger-backend
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mail2juhi48&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mail2juhi48&layout=compact&theme=tokyonight" height="150"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juhi48-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhi48-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🔍 Open to Work
-> I'm actively looking for **Java Backend Developer** roles. Let's connect!
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juhi48-dev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juhi48-dev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juhi48-dev&theme=tokyonight&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Java & Spring Boot
+- 🐳 Docker & Kubernetes
+- ⚡ Redis & Caching
+- ☁️ AWS
+- 🏗️ System Design
+- 📚 Data Structures & Algorithms
+- 🤖 AI + Backend Engineering
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<a href="mailto:mail2juhi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/juhi48"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+</p>
+```
